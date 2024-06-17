@@ -1,2 +1,2 @@
-# Exerc-cio-B-sico
+# Exercicio Basico
 Exercicio do curso de Python da Udemy
